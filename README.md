@@ -38,7 +38,7 @@ Completar con el enlace real al **GitHub Project**:
 
 ## Integrantes (obligatorio: 3 por equipo)
 
-- **Copa, Elina Luisana de los Angeles** — [GitHub] (https://github.com/luisanaacopa)
+- **Copa, Elina Luisana de los Angeles** — [GitHub](https://github.com/luisanaacopa)
 - **Perez, Lucas Santiago** — [GitHub](https://github.com/lucassperezz)
 - **Valdez, Melani Agustina** — [GitHub](https://github.com/agustinavaldezz)
 
