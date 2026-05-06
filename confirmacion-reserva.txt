@@ -1,0 +1,30 @@
+# HU-06 — Confirmación de reserva sin pago
+
+## Objetivo
+
+Documentar una pantalla o flujo de confirmación de reserva sin pago online para el sistema Rent&Go.
+
+## Descripción
+
+El usuario podrá confirmar una reserva de vehículo sin realizar un pago dentro del sistema. La aplicación mostrará un resumen de la reserva con los datos principales y un mensaje de confirmación.
+
+## Datos a mostrar
+
+- Vehículo seleccionado
+- Fecha de retiro
+- Fecha de devolución
+- Ciudad o sucursal
+- Precio total estimado
+- Datos básicos del cliente
+- Estado de la reserva: pendiente de pago o confirmada sin pago online
+
+## Decisiones de interfaz
+
+- Mostrar una tarjeta resumen de la reserva.
+- Utilizar un mensaje claro de confirmación.
+- Indicar que el pago se realizará posteriormente o en la sucursal.
+- Agregar un botón para volver a “Mis reservas”.
+
+## Relación con el proyecto
+
+Esta funcionalidad forma parte del flujo principal de alquiler de vehículos y permite simular una reserva sin integración de pagos reales.
